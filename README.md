@@ -6,4 +6,4 @@ E-Book PDFs
 
 Code Repositories:
 * [`ggtails`](https://github.com/David-Salazar/ggtails) for plots using R
-* [`fattails`](https://github.com/MarcosCarreira/StatisticalConsequencesOfFatTails) python toolkit and jupyter notebooks
+* [`fattails`](https://github.com/FergM/fattails) python toolkit and jupyter notebooks

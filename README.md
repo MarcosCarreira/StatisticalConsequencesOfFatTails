@@ -7,3 +7,6 @@ E-Book PDFs
 Code Repositories:
 * [`ggtails`](https://github.com/David-Salazar/ggtails) for plots using R
 * [`fattails`](https://github.com/FergM/fattails) python toolkit and jupyter notebooks
+
+Posts with code
+* [Isaac Gelman's Takeaways](https://gelman.me/scoft.html)

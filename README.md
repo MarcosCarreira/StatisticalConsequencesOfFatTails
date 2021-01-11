@@ -7,6 +7,7 @@ E-Book PDFs
 Code Repositories:
 * [`ggtails`](https://github.com/David-Salazar/ggtails) for plots using R
 * [`fattails`](https://github.com/FergM/fattails) python toolkit and jupyter notebooks
+* [`QRM`](https://cran.r-project.org/web/packages/QRM/index.html) R functions/methods to accompany the book Quantitative Risk Management: Concepts, Techniques and Tools by Alexander J. McNeil, Ruediger Frey, and Paul Embrechts - highlighted by James during his presentation
 
 Posts with code
 * [Isaac Gelman's Takeaways](https://gelman.me/scoft.html)

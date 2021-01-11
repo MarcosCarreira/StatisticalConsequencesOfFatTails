@@ -3,6 +3,7 @@
 # External Resources
 E-Book PDFs
 * [Vol 1 of the Technical Incerto](https://researchers.one/articles/20.01.00018)
+    * [Errata](https://www.fooledbyrandomness.com/Errata2020FirstEdition.pdf)
 
 Code Repositories:
 * [`ggtails`](https://github.com/David-Salazar/ggtails) for plots using R

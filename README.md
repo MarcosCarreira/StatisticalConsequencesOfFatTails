@@ -9,7 +9,7 @@ Code Repositories:
 * [`ggtails`](https://github.com/David-Salazar/ggtails) for plots using R
 * [`fattails`](https://github.com/FergM/fattails) python toolkit and jupyter notebooks
 * [`QRM`](https://cran.r-project.org/web/packages/QRM/index.html) R functions/methods to accompany the book Quantitative Risk Management: Concepts, Techniques and Tools by Alexander J. McNeil, Ruediger Frey, and Paul Embrechts - highlighted by James during his presentation
-* [technical-incerto-reading-club](https://github.com/Technical-Incerto-Reading-Club/technical-incerto-reading-club) Repository for the Technical Incerto Reading Club meetup group (see below)
+* [`technical-incerto-reading-club`](https://github.com/Technical-Incerto-Reading-Club/technical-incerto-reading-club) Repository for the Technical Incerto Reading Club meetup group (see below)
 
 
 Posts with code

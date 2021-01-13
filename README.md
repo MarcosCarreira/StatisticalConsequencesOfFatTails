@@ -17,3 +17,6 @@ Posts with code
 YouTube channels
 * [N N Taleb's Probability Moocs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww/videos)
 * [The Logic of Risk](https://www.youtube.com/channel/UC_0XoTuNrd_B7V0S7Q0FoVA/videos)
+
+Meetup
+* [Technical Incerto Reading Club](http://www.techincertoreadingclub.com) Organized by Ronald Richman and James Sharpe

@@ -15,6 +15,7 @@ Code Repositories:
 Posts with code
 * [Isaac Gelman's Takeaways](https://gelman.me/scoft.html)
 * [Mike's Math Page](https://mikesmathpage.wordpress.com/2016/01/01/the-most-important-piece-of-math-i-learned-in-2015/)
+* [Alex Lostado](https://rpubs.com/alostado/719164)
 
 YouTube channels
 * [N N Taleb's Probability Moocs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww/videos)
